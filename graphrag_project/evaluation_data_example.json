@@ -1,0 +1,15 @@
+
+[
+  {
+    "question": "What are the key benefits of knowledge graphs in RAG systems?",
+    "reference_answer": "Knowledge graphs enhance RAG systems by providing structural relationships between entities that vector embeddings struggle to capture. They enable better context retrieval by connecting related concepts and improving accuracy through graph-based reasoning."
+  },
+  {
+    "question": "How does vector embedding help in document retrieval?",
+    "reference_answer": "Vector embeddings convert text into numerical representations that capture semantic meaning. This allows for similarity-based retrieval where conceptually related content can be found even without exact keyword matches."
+  },
+  {
+    "question": "What is the difference between BLEU and F1 score?",
+    "reference_answer": "BLEU measures n-gram overlap between generated text and reference, focusing on precision and commonly used for machine translation. F1 score balances precision and recall at the token level and is more appropriate for evaluating factual correctness."
+  }
+]

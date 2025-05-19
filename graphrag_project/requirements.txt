@@ -1,0 +1,32 @@
+
+# Core dependencies
+pandas==2.2.0
+numpy==1.26.4
+tqdm==4.66.2
+
+# PDF processing
+PyPDF2==3.0.1
+pdfminer.six==20231228
+
+# NLP & Embeddings
+sentence-transformers==2.5.0
+spacy==3.7.4
+torch==2.1.2
+
+# Vector database
+faiss-cpu==1.7.4
+
+# Knowledge graph
+networkx==3.2.1
+matplotlib==3.8.4
+
+# LLM integration
+openai==1.10.0
+python-dotenv==1.0.0
+
+# Evaluation
+nltk==3.8.1
+scikit-learn==1.4.1
+
+# UI (optional)
+streamlit==1.32.0
